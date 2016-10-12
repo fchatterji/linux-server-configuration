@@ -1,7 +1,10 @@
 # linux-server-configuration
 
-# Linux-Server-Configuration-FSND-P5
-Linux distribution on a virtual machine, prepared to host web applications, install updates and securing it from a number of attack vectors.
+Fully updated and secured Linux distribution on a virtual machine, hosting the backend of an item_catalog web application. 
+
+## Description
+
+
 
 This Project is in fulfilment of the Project 5 [Udacity Full Stack Web Developer Nanodegree Program](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004). It deploys [Project 3](https://github.com/elnobun/Item-Catalog-Movie-Collection-App-/tree/master/vagrant) "Item Catalog - Movie Collection App" on the virtual machine, and is reacheable under the AWS - server at http://ec2-52-39-26-86.us-west-2.compute.amazonaws.com.
 
