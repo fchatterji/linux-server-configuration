@@ -52,6 +52,7 @@ Package Name | Description
 - Installed and configure `Apache` and `mod_wsgi`
 - Installed Git, cloned the item catalog application 
 - Configured `Apache` and `mod_wsgi` to serve the item catalog application
+- Installed necessary python packages with pip and the requirements.txt file 
 - Installed and configured `PostgreSQL` with default settings to *not* allow remote connection.
 - Created a new user `catalog`, added user to PostgreSQL databse with limited permissions to catalog application database.
 
