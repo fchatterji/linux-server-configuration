@@ -57,11 +57,11 @@ Package Name | Description
 
 ## Third party ressources used to complete the project
 
-- A big thanks to code reviewer Ellis Enobun, who made available a (detailed walkthrough)[https://github.com/elnobun/Linux-Server-Configuration/blob/master/README.md] of steps he took to finish this project, which helped me a lot.
-- [django documentation on how to deploy an app using wsgi](https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/)
-- https://docs.djangoproject.com/en/1.10/topics/install/#database-installation
-- https://www.digitalocean.com/community/tutorials/how-to-run-django-with-mod_wsgi-and-apache-with-a-virtualenv-python-environment-on-a-debian-vps
-- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04
+- A big thanks to code reviewer Ellis Enobun, who made available a [detailed walkthrough](https://github.com/elnobun/Linux-Server-Configuration/blob/master/README.md) of steps he took to finish this project, which helped me a lot.
+- [django documentation on how to deploy an app using wsgi](https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/) 
+- [django documentation on how to use postgresql](https://docs.djangoproject.com/en/1.10/topics/install/#database-installation)
+- [digital ocean guide on how to use django](https://www.digitalocean.com/community/tutorials/how-to-run-django-with-mod_wsgi-and-apache-with-a-virtualenv-python-environment-on-a-debian-vps)
+- [digital ocean guide on how to install postgresql](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04)
 
 
 
