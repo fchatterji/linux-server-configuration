@@ -1,4 +1,4 @@
-# linux-server-configuration
+# Linux-server-configuration
 
 Fully updated and secured webserver, hosting the backend of the item_catalog web application. 
 
@@ -29,7 +29,7 @@ http://ec2-52-34-70-105.us-west-2.compute.amazonaws.com/
 ## Installed Packages
 
 Package Name | Description
---------------: | :------------
+-----------: | :----------
 **apache2** | HTTP Server
 **libapache2-mod-wsgi** | hosts Python applications on Apache2 server
 **finger:** | Displays an easy to read information about a user
@@ -37,7 +37,7 @@ Package Name | Description
 **git** | Version control system tools
 **python-pip** | An easy-install package to facilitate installing Python packages
 **python-psycopg2** | PostgreSQL adapter for Python
-** unattended-upgrades** | Tool to automatically update to the stable versions of installed packages
+**unattended-upgrades** | Tool to automatically update to the stable versions of installed packages
 
 
 ## Configuration Summary
@@ -58,9 +58,10 @@ Package Name | Description
 ## Third party ressources used to complete the project
 
 - A big thanks to code reviewer Ellis Enobun, who made available a (detailed walkthrough)[https://github.com/elnobun/Linux-Server-Configuration/blob/master/README.md] of steps he took to finish this project, which helped me a lot.
-- The django documentation is really great, https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/
+- (django documentation on how to deploy an app using wsgi)[https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/]
 - https://docs.djangoproject.com/en/1.10/topics/install/#database-installation
-
+- https://www.digitalocean.com/community/tutorials/how-to-run-django-with-mod_wsgi-and-apache-with-a-virtualenv-python-environment-on-a-debian-vps
+- https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04
 
 
 
